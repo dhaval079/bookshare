@@ -140,7 +140,6 @@ yarn dev
 - **GitHub Copilot**: Used for code completion and suggestions throughout the development process
 - **ChatGPT/Claude**: Utilized for code review, debugging, and generating boilerplate components
 - **Repomix**: Used to create a unified view of the codebase for easier analysis
-- **Midjourney**: Used for generating concept art for the application design (not included in the final code)
 
 ## Tech Stack
 

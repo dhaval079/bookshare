@@ -9,6 +9,14 @@ BookShare revolutionizes the way readers interact with books by creating a commu
 - **Book Owners**: List books they want to give away, rent out, or exchange with others
 - **Book Seekers**: Discover, browse, and connect with owners to gain access to a diverse collection of books
 
+  
+<img width="1470" alt="Screenshot 2025-04-15 at 11 10 28 AM" src="https://github.com/user-attachments/assets/5afac5af-e176-4320-add6-0640d0c51506" />
+
+
+<img width="1470" alt="Screenshot 2025-04-15 at 11 10 41 AM" src="https://github.com/user-attachments/assets/2fde3834-5e45-464d-ab71-77661289f6ad" />
+
+
+
 The application features an intuitive user interface with seamless authentication, comprehensive book management, advanced search capabilities, and responsive design across all devices.
 
 Built with Next.js 15 using the App Router architecture, MongoDB for data persistence, and Clerk for secure authentication and user management.
